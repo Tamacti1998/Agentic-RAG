@@ -1,0 +1,43 @@
+PANDEMIC — OFFICIAL RULES SUMMARY
+
+OVERVIEW
+Pandemic is a cooperative game for 1–4 players. Players work together as members of a disease control team to treat infections around the world while racing to discover cures for four deadly diseases before humanity is overwhelmed. Either all players win together or all players lose together.
+
+COMPONENTS
+1 board depicting a world map with 48 cities, 96 infection cards (2 per city), 48 player cards (24 city cards, 6 epidemic cards, and 18 event cards), 7 role cards, 7 role pawns, 96 disease cubes (24 each in blue, yellow, black, and red), 4 cure markers, 1 infection rate marker, 1 outbreak marker, 6 research stations, reference cards, and 2 dice.
+
+SETUP
+Place the board in the center of the table. Set the infection rate marker on the leftmost "2" space and the outbreak marker on 0. Shuffle the infection cards and flip the top 9: place 3 disease cubes on the first 3 cities, 2 on the next 3, and 1 on the last 3. Set those 9 cards aside as the infection discard pile. Each player draws a role card randomly and takes the corresponding pawn, placing it in Atlanta. Build a research station in Atlanta. Shuffle the player deck and deal cards to each player (2 players: 4 cards each; 3 players: 3 cards each; 4 players: 2 cards each). Divide the remaining player deck into equal piles based on difficulty, shuffle one epidemic card into each pile, then stack the piles to form the player draw pile.
+
+PLAYER TURNS
+On each turn, the active player takes up to 4 actions, then draws 2 player cards, then flips infection cards equal to the current infection rate. Each player may use any combination of the following actions:
+
+MOVEMENT ACTIONS
+Drive/Ferry: Move to a city connected by a line to your current city.
+Direct Flight: Discard a city card from your hand to move to that city.
+Charter Flight: Discard the card matching your current city to move to any city.
+Shuttle Flight: Move from any city with a research station to any other city with a research station.
+
+OTHER ACTIONS
+Build a Research Station: Discard the card matching your current city to build a research station there. If all 6 stations are built, remove one from the board.
+Treat Disease: Remove 1 disease cube of any color from your current city. If the cure for that disease has been discovered, remove all cubes of that color instead.
+Share Knowledge: Give or take a city card. Both players must be in the city shown on the card, and either action counts as 1 action for the acting player.
+Discover a Cure: At a research station, discard 5 city cards of the same color to cure that disease. Place the cure marker on the board. If all cubes of that color have already been removed, the disease is eradicated.
+
+DRAWING PLAYER CARDS
+After taking actions, draw 2 cards from the player draw pile. Your hand limit is 7 cards; if you exceed it, discard down to 7 immediately. If the player draw pile runs out, players lose immediately.
+
+EPIDEMIC CARDS
+When an Epidemic card is drawn: (1) Increase the infection rate by moving the marker one space to the right. (2) Infect: flip the bottom card of the infection draw pile and place 3 cubes of that color on that city. (3) Intensify: shuffle the infection discard pile (including the newly added card) and place it back on top of the infection draw pile.
+
+INFECTION PHASE
+After drawing player cards, flip a number of infection cards equal to the current infection rate. Add 1 disease cube of the matching color to each revealed city.
+
+OUTBREAKS
+When a city would receive a 4th cube of any color, an outbreak occurs instead. Move the outbreak marker one space forward. Each city connected to the outbreak city receives 1 cube of that color. If any of those cities would also exceed 3 cubes, chain outbreaks occur, but each city can only outbreak once per chain. If the outbreak marker reaches 8, players lose.
+
+WINNING AND LOSING
+Players win immediately when all four diseases are cured, even if cubes remain on the board. Players lose immediately if: the outbreak marker reaches 8, any color of disease cubes runs out when a cube must be placed, or the player draw pile is empty when a player must draw.
+
+ERADICATION
+When all cubes of a cured disease have been removed from the board, that disease is eradicated. Flip its cure marker to the eradicated side. Eradicated diseases are never placed on the board again from infection cards.

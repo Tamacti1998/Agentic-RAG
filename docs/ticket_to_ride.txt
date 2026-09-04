@@ -1,0 +1,44 @@
+TICKET TO RIDE — OFFICIAL RULES SUMMARY
+
+OVERVIEW
+Ticket to Ride is a cross-country train adventure game for 2–5 players. Players collect train cards and use them to claim railway routes connecting cities across North America. Points are scored by completing Destination Ticket routes, claiming routes, and building the longest continuous railway. The player with the most points wins.
+
+COMPONENTS
+1 board map of North America, 240 colored train car cards (12 each of 8 colors and 14 locomotive wildcards), 110 destination ticket cards, 5 sets of 45 colored train car pieces (one per player), 5 wooden scoring markers, 1 longest path bonus card, and a card holder.
+
+SETUP
+Each player takes 45 train car pieces and a scoring marker, placing the marker on Start (0) on the score track. Shuffle the train car cards and deal 4 to each player. Shuffle the destination ticket cards and deal 3 to each player — players must keep at least 2. Place the remaining cards face down as separate draw piles. Flip the top 5 train car cards face up next to the draw pile.
+
+TURN STRUCTURE
+On your turn, you must do exactly one of the following three actions:
+
+1. DRAW TRAIN CAR CARDS
+Draw 2 train car cards from the face-up display or the face-down draw pile. If you take a face-up Locomotive (wild) card, that counts as both draws and your turn ends. You may take 1 face-up card and 1 card from the draw pile, but you may not take a face-up Locomotive as your second card. Whenever a face-up card is taken, immediately replace it with the top card from the draw pile. If 3 or more of the 5 face-up cards are Locomotives, discard all 5 and flip 5 new ones.
+
+2. CLAIM A ROUTE
+Play a set of train car cards matching the color and length of a route on the map, then place your train car pieces on that route. Locomotives (wild cards) may be substituted for any color. Grey routes can be claimed with any single color, but all cards played must be the same color.
+
+Points earned per route claimed:
+- 1 train = 1 point
+- 2 trains = 2 points
+- 3 trains = 4 points
+- 4 trains = 7 points
+- 5 trains = 10 points
+- 6 trains = 15 points
+
+In a 2- or 3-player game, each city is connected by only one route, and no player may claim a second route between the same two cities. In a 4- or 5-player game, double routes are allowed: two players may each claim one of the parallel routes between two cities, but the same player may not claim both.
+
+3. DRAW DESTINATION TICKETS
+Draw 3 destination ticket cards from the top of the destination deck. You must keep at least 1. Return any unwanted cards to the bottom of the deck, face down.
+
+DESTINATION TICKETS
+Each destination ticket shows two cities and a point value. If you successfully connect those two cities with a continuous chain of your train car pieces by the end of the game, you score those points. If you do not complete the route, you lose that many points. Destination tickets are kept secret from other players until scoring.
+
+LOCOMOTIVES (WILDCARDS)
+Locomotive cards can substitute for any color when claiming a route. A route requiring 4 red cards could be claimed with 3 red cards and 1 locomotive. A route can be claimed using all locomotives. Note: when drawing face-up cards, a Locomotive counts as both draws.
+
+END OF THE GAME
+When any player has 2 or fewer train car pieces remaining after claiming a route, each other player takes one final turn. Then the game ends.
+
+FINAL SCORING
+Add points earned from routes claimed during the game (tracked on the score track as routes are claimed). Then add or subtract points from destination tickets. Finally, the player with the longest continuous path of train cars receives the Longest Path bonus card, worth 10 points. The player with the highest total score wins. In case of a tie, the player who completed more destination tickets wins.

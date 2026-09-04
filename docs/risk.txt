@@ -1,0 +1,55 @@
+RISK — OFFICIAL RULES SUMMARY
+
+OVERVIEW
+Risk is a strategy game of diplomacy, conflict, and conquest for 2–6 players. Players command armies, attack opponents' territories, and attempt to achieve a secret mission (or in classic play, conquer the entire world map). The player who completes their mission first wins.
+
+COMPONENTS
+1 game board (world map divided into 42 territories across 6 continents), 6 sets of army pieces in different colors, 42 territory cards, 2 wild cards, mission cards (for mission-based play), 5 dice (3 red for attacking, 2 white for defending), and reinforcement tokens.
+
+SETUP
+Each player selects a color and takes the corresponding army pieces. Place 1 infantry piece in each of the 42 territories — either assigned randomly by dealing territory cards or chosen in turn order. Distribute remaining infantry pieces among players based on player count (the fewer players, the more starting infantry each player receives). Players then take turns placing infantry one at a time onto their own territories until all starting infantry are placed. Shuffle the territory cards to form the draw deck. Deal one mission card face-down to each player — do not reveal it.
+
+TURN STRUCTURE
+Each turn has three phases, in this order:
+1. Receive reinforcements.
+2. Attack (optional).
+3. Fortify (optional).
+
+PHASE 1 — RECEIVING REINFORCEMENTS
+Count the number of territories you control and divide by 3 (rounding down, minimum 3). You receive that many infantry. Additionally, if you control all territories in a continent, you receive bonus infantry equal to that continent's bonus value (printed on the board). You may also turn in a set of territory cards for additional reinforcements (see Territory Cards below). Place all received infantry on any of your territories in any combination.
+
+TERRITORY CARDS
+You earn one territory card at the end of any turn in which you captured at least one territory. Cards show a territory and one of three symbols: infantry, cavalry, or artillery. Wild cards count as any symbol.
+
+Turn in a matched set of 3 cards for bonus infantry:
+- 3 of the same symbol: receive a set bonus (bonuses increase with each set turned in)
+- 1 of each symbol: receive a set bonus
+- Any set containing a Wild card: receives the highest current set bonus
+
+If any card in the set shows a territory you currently control, place 2 extra infantry on that territory immediately. You must turn in cards if you hold 5 or more cards at the start of your turn.
+
+PHASE 2 — ATTACKING
+You may attack any territory adjacent to one of yours (connected by a line on the board) or connected across a sea route. You must keep at least 1 army in your attacking territory at all times — you attack with the armies beyond that minimum.
+
+ROLLING DICE
+The attacker rolls up to 3 dice (limited by the number of armies attacking). The defender rolls up to 2 dice (limited by armies in the defending territory). Compare the highest attacker die to the highest defender die, and (if both rolled 2+ dice) the second-highest attacker die to the second-highest defender die. The defender wins ties. For each comparison, the loser removes 1 army from their territory.
+
+Example: Attacker rolls 6, 4, 2. Defender rolls 5, 3. Comparing highest: 6 vs 5 — defender loses 1. Comparing second: 4 vs 3 — defender loses 1. Attacker loses nothing this exchange.
+
+CAPTURING A TERRITORY
+When the last defending army is eliminated, the territory is captured. Move at least as many armies as you used to roll dice (up to all attacking armies) into the captured territory. The defender draws no card for captured territories; you earn a card at the end of your turn if you captured at least one territory.
+
+ELIMINATING A PLAYER
+When you capture the last territory of another player, that player is eliminated. You immediately take all of their territory cards. If this gives you 6 or more cards, you must immediately turn in sets until you hold fewer than 5.
+
+PHASE 3 — FORTIFYING
+Once per turn, after attacking, you may move any number of armies from one of your territories to one adjacent territory (or through a connected chain of your own territories, depending on the rule variant). You must leave at least 1 army in the territory you move from.
+
+MISSIONS
+Each player has a secret mission card. Missions vary: conquer two specific continents, eliminate a specific player (or if that player is already eliminated, conquer 24 territories), or control 24 territories with at least 2 armies each. Check your mission card at the end of your turn — if you have completed it, reveal it and win immediately.
+
+WINNING
+The first player to complete their secret mission wins. In classic (no-mission) play, the last player to hold any territory wins.
+
+ALLIANCES AND DIPLOMACY
+Risk has no formal alliance or trading mechanic. Players may make verbal agreements — non-aggression pacts, coordinated attacks, promises of card sharing — but none of these are binding. Broken agreements are a legitimate (and celebrated) part of the game.
